@@ -1,5 +1,5 @@
 # script.jsi
-<!DOCTYPE html>
+<!doctypehtml>
 <html>
 <title>HTML Tutorial</title>
 <body>
